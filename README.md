@@ -17,4 +17,4 @@ Reference sequences and lists of variations can be found in [References](Referen
  - BLAST database: `ref_viruses_rep_genomes` (downloaded from NCBI FTP on May. 18, 2024, BLAST v2.15.0). Influenza A is excluded from BLAST search with `-negative_taxids 11320`
  - NA segment of H1N1 is not included in the design
  - Output primers found in [InfA-tiling.csv](InfA-tiling.csv) and [InfA-tiling.scheme.bed](InfA-tiling.scheme.bed) (ARTIC format)
- - Interactive html figures found in the [Figures](Figures/) folder. Download html files and view in browser. Refer to Fig1 of [Olivar manuscript](doi.org/10.1101/2023.02.11.528155) for details. 
+ - Interactive html figures found in the [Figures](Figures/) folder. Download html files and view in browser. Refer to Fig1 of [Olivar manuscript](https://doi.org/10.1101/2023.02.11.528155) for details. 
