@@ -10,6 +10,8 @@ For more details, check [README.pdf](README.pdf)
 4. Variant calling was done with a customized module of Olivar, using the consensus sequence as reference. 
 5. Lists of variant location and frequency, as well as consensus sequences were used for downstream Olivar design. 
 
+Reference sequences and lists of variations can be found in [References](References). 
+
 ## Design of tiled amplicons
  - Amplicon length set as 150 to 300, since shorter amplicons have better sensitivity for fragmented wastewater DNA/RNA. Annealing temperature set as 60°C. 
  - BLAST database: `ref_viruses_rep_genomes` (downloaded from NCBI FTP on May. 18, 2024, BLAST v2.15.0). Influenza A is excluded from BLAST search with `-negative_taxids 11320`
